@@ -1,0 +1,24 @@
+<menu>
+<food>
+    <name>dosa</name>
+    <price>Rs.10</price>
+</food>
+<food>
+    <name>idly</name>
+    <price>Rs.5</price>
+</food>
+<food>
+    <name>chapathi</name>
+    <price>Rs.15</price>
+   
+</food>
+<food>
+    <name>egg</name>
+    <price>Rs.10</price>
+    
+</food>
+<food>
+    <name>vada</name>
+    <price>Rs.5</price>
+</food>
+</menu>
