@@ -1,0 +1,192 @@
+<tax_request>
+    <acct_no>2616</acct_no>
+    <client_no>7000206</client_no>
+    <userid>acc_1726215456</userid>
+    <first_name>fname</first_name>
+    <middle_initial>m</middle_initial>
+    <last_name>lname</last_name>
+    <address_seq>13210</address_seq>
+    <address1>350 5th Ave</address1>
+    <address2/>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10118</zip>
+    <country>US</country>
+    <pcode>0</pcode>
+    <score>0</score>
+    <email>rajeshgopal@gmail.com</email>
+    <telephone>9874563210</telephone>
+    <tax_exempt/>
+    <document_id>50671</document_id>
+    <log_id>50671</log_id>
+    <document_date>20201126</document_date>
+    <orig_document_id>50671</orig_document_id>
+    <country_a3>USA</country_a3>
+    <method_name>Sovos</method_name>
+    <action>tax</action>
+    <currency>usd</currency>
+    <tax_server/>
+    <tax_port/>
+    <global_name>ec01dub</global_name>
+    <file_root>f571fc71717277</file_root>
+    <retry>0</retry>
+    <aria_log_service_url>https://dvlogapp03.oqn.ariasystems.net:8443/logging-service/v1/du/entries</aria_log_service_url>
+    <log_type>FULL</log_type>
+    <tax_config_set>
+        <tax_config>
+            <tax_config_row>
+                <config_name>TaxwareEnterpriseURL</config_name>
+                <config_val>https://partner.taxware.net/Twe/api/rest/calcTax/doc</config_val>
+            </tax_config_row>
+            <tax_config_row>
+                <config_name>addrTypes</config_name>
+                <config_val>sT lSP lU sF bT</config_val>
+            </tax_config_row>
+            <tax_config_row>
+                <config_name>hmac_key</config_name>
+                <config_val>058faf36-0e27-46c4-bea0-04a34fe5bcda</config_val>
+            </tax_config_row>
+        </tax_config>
+        <doc_origin_dest_address>
+            <bill_to_address>
+                <address_seq>13210</address_seq>
+                <tax_eng_specific_id>13210</tax_eng_specific_id>
+                <company_name/>
+                <address1>350 5th Ave</address1>
+                <address2/>
+                <address3/>
+                <city>New York</city>
+                <county/>
+                <state>NY</state>
+                <zip>10118</zip>
+                <zip_4/>
+                <country>US</country>
+                <locality/>
+                <geo_code>0</geo_code>
+            </bill_to_address>
+            <ship_to_address>
+                <address_seq>13210</address_seq>
+                <tax_eng_specific_id>13210</tax_eng_specific_id>
+                <company_name/>
+                <address1>350 5th Ave</address1>
+                <address2/>
+                <address3/>
+                <city>New York</city>
+                <county/>
+                <state>NY</state>
+                <zip>10118</zip>
+                <zip_4/>
+                <country>US</country>
+                <locality/>
+                <geo_code>0</geo_code>
+            </ship_to_address>
+        </doc_origin_dest_address>
+    </tax_config_set>
+    <hier_level/>
+    <line_items>
+        <line_item_row>
+            <line_no>1</line_no>
+            <plan_no>1076</plan_no>
+            <service_no>11000512</service_no>
+            <units>1</units>
+            <unit_price>100</unit_price>
+            <gross_price>100</gross_price>
+            <description>service-5</description>
+            <tax_included>0</tax_included>
+            <base_price>100</base_price>
+            <net_price>100</net_price>
+            <client_order_id/>
+            <tax_service_group_config>
+                <line_origin_dest_address>
+                    <bill_from_location>
+                        <service_location_no>41</service_location_no>
+                        <service_location_name>SL2</service_location_name>
+                        <client_service_location_id>SL2</client_service_location_id>
+                        <tax_eng_specific_id>SL1</tax_eng_specific_id>
+                        <company_name>ABC</company_name>
+                        <address1>600 Read Road</address1>
+                        <address2/>
+                        <address3/>
+                        <city>New york</city>
+                        <county>US</county>
+                        <state>PA</state>
+                        <zip>10005</zip>
+                        <zip_4/>
+                        <country>US</country>
+                        <locality/>
+                        <geo_code>0</geo_code>
+                    </bill_from_location>
+                    <ship_from_location>
+                        <service_location_no>41</service_location_no>
+                        <service_location_name>SL2</service_location_name>
+                        <client_service_location_id>SL2</client_service_location_id>
+                        <tax_eng_specific_id>SL1</tax_eng_specific_id>
+                        <company_name>ABC</company_name>
+                        <address1>600 Read Road</address1>
+                        <address2/>
+                        <address3/>
+                        <city>New york</city>
+                        <county>US</county>
+                        <state>PA</state>
+                        <zip>10005</zip>
+                        <zip_4/>
+                        <country>US</country>
+                        <locality/>
+                        <geo_code>0</geo_code>
+                    </ship_from_location>
+                    <bill_to_address>
+                        <address_seq>13210</address_seq>
+                        <tax_eng_specific_id>13210</tax_eng_specific_id>
+                        <company_name/>
+                        <address1>350 5th Ave</address1>
+                        <address2/>
+                        <address3/>
+                        <city>New York</city>
+                        <county/>
+                        <state>NY</state>
+                        <zip>10118</zip>
+                        <zip_4/>
+                        <country>US</country>
+                        <locality/>
+                        <geo_code>0</geo_code>
+                    </bill_to_address>
+                    <ship_to_address>
+                        <address_seq>13210</address_seq>
+                        <tax_eng_specific_id>13210</tax_eng_specific_id>
+                        <company_name/>
+                        <address1>350 5th Ave</address1>
+                        <address2/>
+                        <address3/>
+                        <city>New York</city>
+                        <county/>
+                        <state>NY</state>
+                        <zip>10118</zip>
+                        <zip_4/>
+                        <country>US</country>
+                        <locality/>
+                        <geo_code>0</geo_code>
+                    </ship_to_address>
+                </line_origin_dest_address>
+                <tax_group_config>
+                    <tax_group_config_row>
+                        <config_name>goodSrv/myCd</config_name>
+                        <config_value>SL2</config_value>
+                    </tax_group_config_row>
+                    <tax_group_config_row>
+                        <config_name>Service Location shipFrom</config_name>
+                        <config_value>41</config_value>
+                    </tax_group_config_row>
+                    <tax_group_config_row>
+                        <config_name>goodSrv/dscrp</config_name>
+                        <config_value>SL2</config_value>
+                    </tax_group_config_row>
+                    <tax_group_config_row>
+                        <config_name>Service Location billFrom</config_name>
+                        <config_value>41</config_value>
+                    </tax_group_config_row>
+                </tax_group_config>
+            </tax_service_group_config>
+        </line_item_row>
+    </line_items>
+</tax_request>
+
